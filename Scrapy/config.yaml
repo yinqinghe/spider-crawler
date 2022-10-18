@@ -1,0 +1,18 @@
+api_hash: 85e27071262efb643b2e5ccbde965cfb
+api_id: 18492620
+chat_id: -1001295602129
+file_formats:
+  audio:
+  - all
+  document:
+  - all
+  video:
+  - all
+ids_to_retry: []
+last_read_message_id: 6049
+media_types:
+- audio
+- photo
+- document
+- voice
+- video_note

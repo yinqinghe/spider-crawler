@@ -1,0 +1,11 @@
+bot/node_modules
+
+agent/config/synaptic.py
+agent/.venv/
+*.db-journal
+__pycache__
+.env
+agent/session/*
+
+!.keep
+*.db

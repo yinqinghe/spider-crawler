@@ -1,0 +1,17 @@
+api_hash: 85e27071262efb643b2e5ccbde965cfb
+api_id: 18492620
+chat_id: -1001150794055
+file_formats:
+  audio:
+  - all
+  document:
+  - gif
+  - jpg
+  - pdf
+  video:
+  - gif
+ids_to_retry: []
+last_read_message_id: 11401
+media_types:
+- animation
+- document

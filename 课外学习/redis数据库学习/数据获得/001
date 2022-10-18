@@ -1,0 +1,47 @@
+C:\Users\殷清贺\AppData\Local\Programs\Python\Python39\python.exe D:/C#/python/爬虫/课外学习/redis数据库学习/数据获得/B站评论获得.py
+aid
+bvid
+p
+episode
+
+
+videoData                       ugc_season
+upData
+isCollection
+sectionsInfo                    sections
+playedSectionId
+sections
+staffData
+tags
+related
+spec
+isClient
+error
+player
+playurl
+user
+cidMap
+isRecAutoPlay
+continuousPlay
+autoPlayNextVideo
+elecState
+elecFullInfo
+adData
+
+
+
+
+adsControl
+bofqiParams
+isBack
+isForbidNote
+seasonType
+insertScripts
+pageAbTest
+buvidAbTest
+videoGoOldVersion
+isExp
+isInExp
+isNewHome
+
+
