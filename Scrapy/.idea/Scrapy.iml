@@ -10,7 +10,7 @@
       <excludeFolder url="file://$MODULE_DIR$/telegram_media_downloader-master/document" />
       <excludeFolder url="file://$MODULE_DIR$/telegram_media_downloader-master/audio" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.9 (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

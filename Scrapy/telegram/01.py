@@ -2,8 +2,8 @@ import asyncio
 
 from pyrogram import Client
 from pyrogram.handlers import MessageHandler
-api_id = 18492620
-api_hash = "85e27071262efb643b2e5ccbde965cfb"
+api_id = xxx
+api_hash = "xxx"
 
 proxy = {
      "scheme": "http",  # "socks4", "socks5" and "http" are supported
